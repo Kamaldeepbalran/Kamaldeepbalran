@@ -14,7 +14,7 @@
             My name is Kamaldeep
         </h1>
         <p>A Full-Stack developer | MERN Stack <br>
-            🔭 I’m currently working on a MERN Project</::marker> <br>
+           <la> 🔭 I’m currently working on a MERN Project</::marker> <la><br>
             🌱 I’m Interested to work on Web 3.0 <br>
             👯 I’m making the world better by PRs<br>
             💬 Ask me about Technology & Finance<br>
