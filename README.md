@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-  </head>
-  <body>
-    <div id="kamal">
-        <p>👋 Welcome to my profile! I'm Kamaldeep Sharma, a versatile professional:
+👋 Welcome to my profile! I'm Sarthak Sharma, a versatile professional:
 
-        🌐 Full Stack Web Developer <br>
-        🎨 UI/UX Designer <br>
-        📚 Engineering Scholar <br>
-        💼 Freelancer <br>
-        💡 Problem Solver <br>
-        ⭐ 5-Star JAVA Programmer <br>
-        🗣️ Skilled Public Speaker <br>
-        Feel free to connect via email at "kamaldeepbalran@gmail.com." Let's collaborate and create something amazing! 😊🚀 </p>
-    
-  </body>
-</html>
+🌐 Full Stack Web Developer
+🎨 UI/UX Designer
+📚 Engineering Scholar
+💼 Freelancer
+💡 Problem Solver
+⭐ 5-Star JAVA Programmer
+🗣️ Skilled Public Speaker
+Feel free to connect via email at "ssarthak770@gmail.com." Let's collaborate and create something amazing! 😊🚀
