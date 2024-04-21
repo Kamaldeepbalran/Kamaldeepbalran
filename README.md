@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    
   </head>
   <body>
     <div id="kamal">
@@ -17,6 +17,6 @@
         ⭐ 5-Star JAVA Programmer <br>
         🗣️ Skilled Public Speaker <br>
         Feel free to connect via email at "kamaldeepbalran@gmail.com." Let's collaborate and create something amazing! 😊🚀 </p>
-    </div>
+    
   </body>
 </html>
