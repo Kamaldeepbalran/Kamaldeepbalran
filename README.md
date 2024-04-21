@@ -7,7 +7,7 @@
   </head>
   <body>
     <div id="kamal">
-        <p>👋 Welcome to my profile! I'm Kamaldeep Sharma, a versatile professional:</p>
+        <p>👋 Welcome to my profile! I'm Kamaldeep Sharma, a versatile professional:
 
         🌐 Full Stack Web Developer <br>
         🎨 UI/UX Designer <br>
@@ -16,7 +16,7 @@
         💡 Problem Solver <br>
         ⭐ 5-Star JAVA Programmer <br>
         🗣️ Skilled Public Speaker <br>
-        Feel free to connect via email at "kamaldeepbalran@gmail.com." Let's collaborate and create something amazing! 😊🚀
+        Feel free to connect via email at "kamaldeepbalran@gmail.com." Let's collaborate and create something amazing! 😊🚀 </p>
     </div>
   </body>
 </html>
